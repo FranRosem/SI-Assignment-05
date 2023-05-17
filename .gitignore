@@ -1,0 +1,5 @@
+img-classification/
+handlers/
+material/
+ignored-notebooks/
+*.zip
