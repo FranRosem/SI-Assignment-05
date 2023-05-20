@@ -10,6 +10,9 @@
 
 The Datasets of each Notebook are inside of the Notebooks in Kaggle
 
+### Info shared in Docs:
+- https://docs.google.com/document/d/1PTLkEuNVNll20oXIcfyfbpIjsWx6Lg74L51zC7GnmhE
+
 ### References:
 
 ##### About CNNs:
